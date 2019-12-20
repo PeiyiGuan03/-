@@ -27,7 +27,7 @@
 以新书交流为例，路薇为书店策划活动时，首先需要考虑“调性是不是和书店契合”，对于契合的活动，书店一般不会向对方收取场地费，但有时候为了调性不得不放弃一些流量的考虑。譬如曾有一本关于买房的“畅销书”也想在Page One举办线下活动，“其实流量特别大，但是调性不是特别搭”，路薇“忍痛拒绝了”。            
 
 除了传统出版行业的图书，路薇关注到很多线上内容账号也开始出纸质书，一些电商也开始入局线下。11月15日，文学新媒体“真实故事计划”（以下简称真故）推出系列主题书的第一本《女性叙事》，想要“证明讲述自我、记录时代的非虚构文学值得被铅字印刷。”2015年，电商亚马逊开了第一家实体书店，并[介绍道：](https://www.geekwire.com/2015/its-official-amazon-is-opening-its-first-ever-bookstore-in-seattle/)          
-> “这家名为‘Amazon Books’的书店将成为Amazon.com的实体延伸”。          
+> “这家名为‘Amazon Books’的书店将成为‘Amazon.com’的实体延伸。”          
 
 线上线下同价和基于亚马逊线上消费数据的布局体验让亚马逊实体书店更直接地与读者建立连接。真故的账号拥有超过200万订阅量，编辑鲁瑶认为，在互联网可以解决大部分需求的时代，人和人的连接是很弱的，从线上到线下回归的是和消费者之间的关系，“**对文化的感知是无法想象的**，这个互动的关系没法依靠线上解决。”消息发出后2小时，首印3000本售罄。路薇通过朋友联系到了真故的主编雷磊，双方仅用1天就敲定了活动。               
 ![]()             
@@ -43,9 +43,7 @@ Page One活动的入场费有两个选项：包含书或者饮品。12月6号，
 
 <div class="flourish-embed" data-src="story/150902"></div><script src="https://public.flourish.studio/resources/embed.js"></script>          
 
-日本策划公司Culture Convenience Club旗下的茑屋书店（TSUTAYA BOOKS）成立于1983年，开创了书籍、录像带、唱片的复合式经营模式。[公司网站](https://www.ccc.co.jp/en/showcase/sc_004392.html?cat=life)上介绍它           
->“不止卖书，优雅的气氛，丰富的书籍、唱片、电影的收藏量都是吸引力。”              
-录像带和唱片租赁是日本的传统产业，[茑屋书店占据了较大一部分市场](http://blog.japantimes.co.jp/yen-for-living/rental-video-stores-ponder-their-reason-for-existing/)。结合本土化的复合式业态让书店成为日本最大的连锁书店。            
+日本策划公司Culture Convenience Club旗下的茑屋书店（TSUTAYA BOOKS）成立于1983年，开创了书籍、录像带、唱片的复合式经营模式。[公司网站上介绍它“不止卖书，优雅的气氛，丰富的书籍、唱片、电影的收藏量都是吸引力。”](https://www.ccc.co.jp/en/showcase/sc_004392.html?cat=life)录像带和唱片租赁是日本的传统产业，[茑屋书店占据了较大一部分市场](http://blog.japantimes.co.jp/yen-for-living/rental-video-stores-ponder-their-reason-for-existing/)。结合本土化的复合式业态让书店成为日本最大的连锁书店。            
 
 国内书店的复合式经营仍在探索阶段。试图细分、精准客户群的行为背后，是线下零售行业在不断发掘并满足客户的多样需求。“这种情况很早就有了”，薛倩回忆十年前的光合作用书店（已于2011年关闭），“装潢、灯光、书的布局跟新华书店都不一样，一开始觉得挺好”，后来发现书的面积越来越少后，薛倩觉得理解的同时会感到可惜，“书店上书的种类有限，一些书就没有机会出现了”。             
 
